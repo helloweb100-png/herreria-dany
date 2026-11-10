@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Herrería Dany">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd37a"/>
+      <stop offset=".55" stop-color="#e8a62f"/>
+      <stop offset="1" stop-color="#b97a12"/>
+    </linearGradient>
+  </defs>
+  <path d="M4 4H20V24H44V4H60V60H44V40H20V60H4Z" stroke="url(#g)" stroke-width="3.2" stroke-linejoin="miter"/>
+  <path d="M10 10H14V30H50V10H54V54H50V34H14V54H10Z" stroke="url(#g)" stroke-width="1.6" opacity=".75" stroke-linejoin="miter"/>
+</svg>
